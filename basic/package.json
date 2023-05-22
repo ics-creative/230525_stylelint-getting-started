@@ -1,0 +1,12 @@
+{
+  "private": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "fix:css": "stylelint \"**/*.css\""
+  },
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "stylelint": "15.6.2"
+  }
+}

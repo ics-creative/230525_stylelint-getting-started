@@ -1,6 +1,9 @@
+<script setup>
+</script>
+
 <template>
   <div>
-    <span class="app">Nuxt.js</span>
+    <span class="app">Vue.js</span>
   </div>
 </template>
 

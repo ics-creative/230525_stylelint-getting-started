@@ -4,7 +4,7 @@ module.exports = {
   ],
   overrides: [
     {
-      files: ["*.tsx", "**/*.tsx"],
+      files: ["*.jsx", "**/*.jsx"],
       customSyntax: "postcss-styled-syntax",
     },
   ]

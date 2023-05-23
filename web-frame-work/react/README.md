@@ -1,5 +1,5 @@
 ICS MEDIA記事「いまから始めるStylelint入門」のサンプルです。
-このディレクトリでは、Vite + Vue.jsプロジェクトにStylelintを追加しています。
+このディレクトリでは、Vite + React.jsプロジェクトにStylelintを追加しています。
 
 `npm install`後、`npm run fix`を実行することで次のエラーが表示されます。
 

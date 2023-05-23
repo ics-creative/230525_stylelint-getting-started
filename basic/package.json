@@ -2,7 +2,7 @@
   "private": true,
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "fix:css": "stylelint \"**/*.css\" --fix"
+    "fix": "stylelint \"**/*.css\" --fix"
   },
   "author": "",
   "license": "MIT",

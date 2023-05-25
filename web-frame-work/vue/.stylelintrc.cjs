@@ -3,9 +3,8 @@ module.exports = {
     "stylelint-config-standard-scss",
     "stylelint-config-standard-vue"
   ],
-  ignoreFiles: [
-    "dist/",
-    ".nuxt/",
-    ".output/",
-  ]
+  rules: {
+    // vueファイルでSassのat-ruleを利用するため、無効にする
+    "at-rule-no-unknown": null,
+  },
 }
